@@ -1,7 +1,7 @@
-#Tic Tac Toe
-#by Jacob Macleod
-#Started in 2020
-#Updated in 2022
+# Tic Tac Toe
+# by Jacob Macleod
+# Started in 2020
+# Updated in 2022
 
 import pygame
 import os
