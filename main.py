@@ -13,8 +13,8 @@ pygame.mixer.init()
 
 icon = pygame.image.load("images/icon.png")
 
-display_width = 450  #400
-display_height = 430 #380
+display_width = 450
+display_height = 430
 fps = 75
 
 os.environ['SDL_VIDEO_CENTERED'] = "1"
